@@ -1,0 +1,1 @@
+export const BASE_URL = "https://frightened-crown-lamb.cyclic.cloud/"
